@@ -1,0 +1,4 @@
+master
+pkgconfig(zlib)
+xz-dev
+zstd-dev
